@@ -6,6 +6,7 @@
 # Class (KEYWORD3)
 #######################################
 LDMA	KEYWORD3
+DTDMA	KETWORD3
 
 #######################################
 # Datatypes (KEYWORD1)
